@@ -57,8 +57,7 @@ Details - ![SP_D3](https://github.com/user-attachments/assets/6534f85f-d349-4bfc
 
 Drive Link *(for pdf)* - https://drive.google.com/open?id=1sgwMAB2jf1lfOi9kEEMCghV8Ab0ufktU&usp=drive_fs
 
-Drive Link *(for .pbix file)* - https://drive.google.com/open?id=1IWJ7_Fj5VNrt-XqXiwUTWUGr3Q1WrEjy&usp=drive_fs
-* tip - Read how to run below*
+Drive Link *(for .pbix file)* - [https://drive.google.com/open?id=1IWJ7_Fj5VNrt-XqXiwUTWUGr3Q1WrEjy&usp=drive_fs](https://app.powerbi.com/links/8LjiiZcNTl?ctid=3fc1a503-a415-43d0-a42c-0c46da001df4&pbi_source=linkShare)
 
 ---
 
@@ -68,14 +67,5 @@ Drive Link *(for .pbix file)* - https://drive.google.com/open?id=1IWJ7_Fj5VNrt-X
 - Peak listening occurs during late evenings (around 8–10 PM).
 - A small group of high-engagement tracks accounts for a large portion of total listening time.
 - YOY engagement with albums decreased slightly, while track diversity increased.
-
----
-
-###  How to Run
-
-1. Download the `.pbix` file from this repo.
-2. Open using **Power BI Desktop** (latest version recommended).
-3. Use filters to explore yearly comparisons, top performers, and pattern trends.
-4. No external credentials or APIs required — dataset is included.
 
 ---
