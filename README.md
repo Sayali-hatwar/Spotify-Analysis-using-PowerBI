@@ -50,9 +50,14 @@ To analyze Spotify user behavior by transforming streaming data into meaningful 
 
 ###  Dashboard Previews
 
-Spotify Overview - ![SP_D1](https://github.com/user-attachments/assets/216b93c4-91af-413e-87d4-3d42052164d5)
-Listening Pattern - ![SP_D2](https://github.com/user-attachments/assets/c19aa537-8ec1-4360-8eeb-46063cb5bea9)
-Details - ![SP_D3](https://github.com/user-attachments/assets/6534f85f-d349-4bfc-8866-0970448d0cac)
+## Spotify Overview  
+<img src="https://github.com/user-attachments/assets/216b93c4-91af-413e-87d4-3d42052164d5" alt="Spotify Overview" width="800" height="600"/>
+
+## Listening Pattern  
+<img src="https://github.com/user-attachments/assets/c19aa537-8ec1-4360-8eeb-46063cb5bea9" alt="Listening Pattern" width="800" height="600"/>
+
+## Details  
+<img src="https://github.com/user-attachments/assets/6534f85f-d349-4bfc-8866-0970448d0cac" alt="Details" width="800" height="600"/>
 
 
 Drive Link *(for pdf)* - https://drive.google.com/open?id=1sgwMAB2jf1lfOi9kEEMCghV8Ab0ufktU&usp=drive_fs
