@@ -60,9 +60,9 @@ To analyze Spotify user behavior by transforming streaming data into meaningful 
 <img src="https://github.com/user-attachments/assets/6534f85f-d349-4bfc-8866-0970448d0cac" alt="Details" width="800" height="600"/>
 
 
-Drive Link *(for pdf)* - https://drive.google.com/open?id=1sgwMAB2jf1lfOi9kEEMCghV8Ab0ufktU&usp=drive_fs
+Drive Link *(for pdf)* - [pdf_link](https://drive.google.com/open?id=1sgwMAB2jf1lfOi9kEEMCghV8Ab0ufktU&usp=drive_fs)
 
-Drive Link *(for .pbix file)* - [https://drive.google.com/open?id=1IWJ7_Fj5VNrt-XqXiwUTWUGr3Q1WrEjy&usp=drive_fs](https://app.powerbi.com/links/8LjiiZcNTl?ctid=3fc1a503-a415-43d0-a42c-0c46da001df4&pbi_source=linkShare)
+Drive Link *(for .pbix file)* - [BI Dashboard](https://app.powerbi.com/links/8LjiiZcNTl?ctid=3fc1a503-a415-43d0-a42c-0c46da001df4&pbi_source=linkShare)
 
 ---
 
